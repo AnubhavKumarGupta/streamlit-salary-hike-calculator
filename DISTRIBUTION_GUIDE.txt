@@ -1,0 +1,31 @@
+HOW TO RUN THIS APPLICATION
+===========================
+
+1. Double-click the "SalaryHikeCalculator.exe" file.
+
+2. IMPORTANT: WAIT for 30-60 seconds!
+   - A black console window will appear.
+   - It needs time on the FIRST run to extract files.
+   - DO NOT close the black window.
+
+3. Your default web browser will AUTOMATICALLY open.
+   - If Windows Firewall asks for permission, click "Allow Access".
+   - If browser doesn't open after 1 minute, go to: http://localhost:8501
+
+4. When you are finished, confirm "Stop" in the browser or close the black console window.
+
+TROUBLESHOOTING
+===============
+- "Page Not Found / 404":
+  This means the app is still loading. Refresh the page after 10 seconds.
+  
+- "Windows protected your PC":
+  Click "More info" -> "Run anyway".
+
+- "Address already in use":
+  Close any other running Streamlit apps.
+
+ABOUT
+=====
+This is a standalone application. You do NOT need Python installed to run it.
+It runs completely offline on your computer.
